@@ -1,0 +1,85 @@
+# Kam
+
+Kam is a minimal, privacy-focused desktop browser for Windows.
+
+> Status: Beta / experimental software.
+
+## Screenshots
+
+![Kam home page](Screenshots/Kam-Home.png)
+
+![Kam with five tabs](Screenshots/Kam-5-Tabs.png)
+
+## Features
+
+- Up to 5 tabs
+- Up to 7 toolbar bookmarks
+- Bookmark folders
+- Bookmark import and export
+- Download support
+- Multiple search engine options
+- Basic ad and popup blocking
+- No browsing history
+- Camera, microphone, geolocation, and notifications are blocked by default
+
+## Why Kam?
+
+Built for people who want a lightweight, simple browser without distractions.
+
+## Privacy and Security
+
+- No account required
+- No telemetry, analytics, or crash reporting
+- Bookmarks, search settings, and window preferences are stored locally
+- Uses Electron Store with a locally protected encryption key
+- Web tabs run with context isolation, disabled Node.js integration, and Chromium sandboxing
+- Uses Chromium’s default HTTPS certificate validation
+- Not a VPN and does not provide full phishing or Safe Browsing protection
+
+## Limits
+
+- Windows only
+- No Chrome Web Store extension support
+- Ad blocking is basic and may not block every ad, popup, redirect, or tracker
+- Kam is not intended to replace full-featured browsers
+
+## Known Issue: Yellow Border in Fullscreen Video
+
+Occasionally, after extended fullscreen playback on some video platforms, a thin yellow border may appear around the fullscreen video area.
+
+**Workaround:** Minimize and restore the Kam window.
+
+## Google sign-in
+
+Google sign-in may occasionally fail in Kam, especially after clearing
+the cache and cookies. This is related to how Google handles non-Chrome
+browsers. If this happens, try again later or use another browser.
+
+
+## Requirements
+- Windows 10 or later
+
+## Install
+
+Download the latest release from the [Releases](../../releases) page and run it.
+
+Windows may show a SmartScreen warning because the app is currently unsigned.
+
+## Uninstall
+
+- For the installed version, open **Settings > Apps > Installed apps**, find **Kam**, and select **Uninstall**.
+- For the portable version, close Kam and delete the `.exe` file or its folder.
+- Local Kam data may remain after uninstalling.
+
+## Feedback and Bug Reports
+
+For bugs, suggestions, or general feedback:
+
+- Open an issue in the [Issues](../../issues) section.
+- Or email [Kam.Browser@proton.me](mailto:Kam.Browser@proton.me).
+
+## License
+
+This project is not open source. Personal use only. All rights reserved.
+
+See [LICENSE](LICENSE) for full terms.
