@@ -61,8 +61,7 @@ browsers. If this happens, try again later or use another browser.
 
 ## Install
 
-Download the latest release from the [Releases](https://github.com/iliya-prs/Kam/releases) page and run it.
-
+Download Kam 1.0.0 from the [release page](https://github.com/iliya-prs/Kam/releases/tag/v1.0.0).
 
 Windows may show a SmartScreen warning because the app is currently unsigned.
 
