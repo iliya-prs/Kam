@@ -1,21 +1,22 @@
 Kam — Personal Use License
 
-Copyright (c) 2026 Iliya.Parsania
+Copyright (c) 2026 Iliya Parsania
 All rights reserved.
 
 Permission is granted, free of charge, to download, install, and
-run this software for personal, private, non-commercial purposes.
+run Kam for personal, private, non-commercial purposes.
+
 You may make backup copies solely for your own permitted use.
 
-Except as expressly permitted above, by applicable law, or by
-the applicable licenses of third-party components, you may not
-copy, modify, redistribute, sublicense, sell, publish, or
-distribute this software, in original or modified form, without
-prior written permission from the copyright holder.
+Except as expressly permitted above, by applicable law, or by the
+applicable licenses of third-party components, you may not copy,
+modify, redistribute, sublicense, sell, publish, or distribute Kam
+in original or modified form without prior written permission from
+the copyright holder.
 
-Third-party components included with this software remain subject
-to their respective licenses. This license does not restrict any
-rights granted under those licenses.
+Third-party components included with Kam remain subject to their
+respective licenses. This license does not restrict any rights
+granted under those licenses.
 
 For permission requests, contact:
 kam.browser@proton.me
@@ -26,5 +27,5 @@ OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT.
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT
-SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
-OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
