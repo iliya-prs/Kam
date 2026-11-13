@@ -30,34 +30,19 @@ Built for people who want a lightweight, simple browser without distractions.
 
 - No account required
 - No telemetry, analytics, or crash reporting
+- No cloud sync of browsing data
 - Bookmarks, search settings, and window preferences are stored locally
 - Uses Electron Store with a locally protected encryption key
 - Web tabs run with context isolation, disabled Node.js integration, and Chromium sandboxing
-- Uses Chromium’s default HTTPS certificate validation
 - Not a VPN and does not provide full phishing or Safe Browsing protection
 
 ## Trust and transparency
 
 Kam is currently **not open source**.
 
-The published Windows build is unsigned, so Windows SmartScreen  
-may show a warning when you run it.
+The published Windows build is unsigned, so Windows SmartScreen may show a warning when you run it. This does not automatically mean the file is malware; it means Windows cannot verify a trusted publisher signature for the application.
 
-This warning does not automatically mean the file is malware.  
-It means Windows cannot verify a trusted publisher signature  
-for the application.
-
-Kam is designed to keep things local and simple:
-
-- No accounts
-- No telemetry or analytics
-- No cloud sync of browsing data
-- Bookmarks and settings stay on your device
-
-Kam is a small personal project provided as-is.  
-If you prefer a fully open-source browser, you may want  
-to use a well-known open-source alternative instead.
-
+Kam is a small personal project provided as-is. If you prefer a fully open-source browser, you may want to use a well-known open-source alternative instead.
 
 ## Limits
 
@@ -74,12 +59,10 @@ Occasionally, after extended fullscreen playback on some video platforms, a thin
 
 ## Google sign-in
 
-Google sign-in may occasionally fail in Kam, especially after clearing
-the cache and cookies. This is related to how Google handles non-Chrome
-browsers. If this happens, try again later or use another browser.
-
+Google sign-in may occasionally fail in Kam, especially after clearing the cache and cookies. This is related to how Google handles non-Chrome browsers. If this happens, try again later or use another browser.
 
 ## Requirements
+
 - Windows 10 or later
 
 ## Install
@@ -98,11 +81,11 @@ Windows may show a SmartScreen warning because the app is currently unsigned.
 
 For bugs, suggestions, or general feedback:
 
-- Open an issue in the [Issues](../../issues) section.
+- Open an issue in the [Issues section](https://github.com/iliya-prs/Kam/issues).
 - Or email [Kam.Browser@proton.me](mailto:Kam.Browser@proton.me).
 
 ## License
 
-This project is not open source. Personal use only. All rights reserved.
+This project is not open source. All rights reserved.
 
 See [LICENSE](LICENSE) for full terms.
