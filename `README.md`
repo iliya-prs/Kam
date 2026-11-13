@@ -36,6 +36,29 @@ Built for people who want a lightweight, simple browser without distractions.
 - Uses Chromium’s default HTTPS certificate validation
 - Not a VPN and does not provide full phishing or Safe Browsing protection
 
+## Trust and transparency
+
+Kam is currently **not open source**.
+
+The published Windows build is unsigned, so Windows SmartScreen  
+may show a warning when you run it.
+
+This warning does not automatically mean the file is malware.  
+It means Windows cannot verify a trusted publisher signature  
+for the application.
+
+Kam is designed to keep things local and simple:
+
+- No accounts
+- No telemetry or analytics
+- No cloud sync of browsing data
+- Bookmarks and settings stay on your device
+
+Kam is a small personal project provided as-is.  
+If you prefer a fully open-source browser, you may want  
+to use a well-known open-source alternative instead.
+
+
 ## Limits
 
 - Windows only
